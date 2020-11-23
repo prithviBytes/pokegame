@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pokegame/static/css/main.c32a91f3.chunk.css",
+    "main.js": "/pokegame/static/js/main.8335a064.chunk.js",
+    "main.js.map": "/pokegame/static/js/main.8335a064.chunk.js.map",
+    "runtime-main.js": "/pokegame/static/js/runtime-main.6fb52895.js",
+    "runtime-main.js.map": "/pokegame/static/js/runtime-main.6fb52895.js.map",
+    "static/js/2.2124a7ca.chunk.js": "/pokegame/static/js/2.2124a7ca.chunk.js",
+    "static/js/2.2124a7ca.chunk.js.map": "/pokegame/static/js/2.2124a7ca.chunk.js.map",
+    "index.html": "/pokegame/index.html",
+    "static/css/main.c32a91f3.chunk.css.map": "/pokegame/static/css/main.c32a91f3.chunk.css.map",
+    "static/js/2.2124a7ca.chunk.js.LICENSE.txt": "/pokegame/static/js/2.2124a7ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb52895.js",
+    "static/js/2.2124a7ca.chunk.js",
+    "static/css/main.c32a91f3.chunk.css",
+    "static/js/main.8335a064.chunk.js"
+  ]
+}
